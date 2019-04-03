@@ -1,4 +1,4 @@
-<h1>Student Assignment<h1>
+<h1>Student Assignment</h1>
 <p>Android course assignment for the 3rd year students in faculty of science at the University of Helwan in Egypt.</p>
 <h2>Views IDs</h2>
 
